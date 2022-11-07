@@ -4,10 +4,11 @@
 
 DCモータなどの負荷の正転・逆転をGrove端子から制御できます。PWM制御を行うこともできます。負荷の電源はオレンジ色のコネクタ、またはGrove端子のVDDから選択できます。
 
+<img src="https://github.com/akita11/HbridgeS_UNIT/blob/main/HbridgeS_UNIT_case.jpg" width="160px">
+
 基板形状が「[M5Stack用VH3.96-4ピンユニット](https://www.switch-science.com/products/4055)」と同一のため、そのケースを使うことができます。
 
-
-Grove端子のVDDへの電源供給能力が不足する場合は[TypeC2Grove UNIT](https://shop.m5stack.com/collections/m5-sensor/products/usb-typec2grove-unit)等を使用してください。
+Grove端子のVDDへの電源供給能力が不足する場合は[TypeC2Grove UNIT](https://www.switch-science.com/products/8453)等を使用してください。
 
 
 ## 使い方
@@ -16,7 +17,7 @@ Grove端子のVDDへの電源供給能力が不足する場合は[TypeC2Grove UN
 
 負荷側の電源は、裏面のJP1で、Grove側の+5Vに切り替えることもできます。（Grove接続先の電源供給能力に注意してください）
 
-<img src="https://github.com/akita11/HbridgeS_UNIT/blob/main/jumper.jpg" width="320px">
+<img src="https://github.com/akita11/HbridgeS_UNIT/blob/main/HbridgeS_UNIT_back.jpg" width="160px">
 
 - JP1 : 負荷（ドライバIC）の電源の選択。VDD（VH3.96コネクタ）がデフォルト、Groveの5Vも選択可能
 
