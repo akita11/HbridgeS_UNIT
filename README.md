@@ -31,7 +31,7 @@ Grove端子のVDDへの電源供給能力が不足する場合は[TypeC2Grove UN
 
 ただし、一般にDCモータ等の負荷は消費電流が多く、マイコン側の+5V電源の供給能力が不足する場合がほとんどです。そのような場合は、[TypeC2Grove UNIT](https://www.switch-science.com/products/8453)を使用して、負荷側の電源をUSB Type-C端子から供給することができます。別途USB-CコネクタのACアダプタ等を接続してください。
 
-<img src="https://github.com/akita11/HbridgeS_UNIT/blob/main/HbridgeS_UNIT_usage1.jpg" width="320px">
+<img src="https://github.com/akita11/HbridgeS_UNIT/blob/main/HbridgeS_UNIT_usage2.jpg" width="320px">
 
 
 ### マイコンからの制御方法
