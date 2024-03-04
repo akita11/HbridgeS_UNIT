@@ -45,7 +45,7 @@ Grove端子のVDDへの電源供給能力が不足する場合は[TypeC2Grove UN
 | 0  | 0  | 開放 |
 | 1  | 1  | 短絡（ブレーキ） |
 
-UIFlowでの[使用例](Hbrige_test.m5f)（以下）を参考にしてください。
+UIFlowでの[使用例](Hbrige_test.m5f)（以下）を参考にしてください。（Core2のPortAに接続した場合。MF=GPIO32、MR=GPIO33）
 
 <img src="https://github.com/akita11/HbridgeS_UNIT/blob/main/HbridgeS_UNIT_test.png" width="320px">
 
